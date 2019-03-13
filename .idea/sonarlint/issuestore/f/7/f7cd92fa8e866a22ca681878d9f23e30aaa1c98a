@@ -1,0 +1,4 @@
+
+Osquid:S1612",Replace this lambda with a method reference.(Õ¥íıùÿÿÿÿ8ÙëÄ»–-
+Wsquid:S2130"9Use "Integer.parseInt" for this string-to-int conversion.(¨ˆßä8ÙëÄ»–-
+gsquid:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(¥€ªşÿÿÿÿ8ÙëÄ»–-

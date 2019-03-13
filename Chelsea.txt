@@ -1,0 +1,26 @@
+﻿1,Arrizabalaga Kepa,B,P
+13,Bulka Marcin,B,P
+13,Caballero Wilfredo,B,L
+1,Cumming Jamie,B,P
+3,Alonso Marcos,O,P
+28,Azpilicueta Cesar,O,P
+24,Cahill Gary,O,P
+27,Christensen Andreas.O,P
+33,Emerson,O,L
+30,Luiz David,O,P
+2,Ruediger Antonio,O,P
+21,Zappacosta Davide,P,P
+2,Mmpadu Ethan,P,P
+8,Barkley Ross,P,P
+6,Drinkwater Daniel,P,P
+10,Hazard Eden,P,P
+20,Hudson-Odoi Callum,P,P
+5,Jorginho,P,P
+7,Kante N'Golo,P,P
+17,Kovacic Mateo,P,L
+12,Loftus-Cheek Ruben,P,P
+12,McEachran George,P,L
+11,Pedro,P,P
+22,Willian,P,P
+18,Giroud Olivier,N,P
+9,Higuain Gonzalo,N,P

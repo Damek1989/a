@@ -1,0 +1,30 @@
+﻿1.Fabianski Lukasz.B
+12.Adrian.B
+4.Balbuena Fabian.O	
+3.Cresswell Aaron.0	
+23.Diop Issa.O
+26.Masuaku Arthur.O	
+21.Ogbonna Angelo.O	
+5.Zabaleta Pablo.O
+8.Anderson Felipe.P
+30.Antonio Michail.P	
+4.Coventry Conor.P	
+7.Diangana Grady.P	
+15.Dju Mesaque.P
+24.Fredericks Ryan.O
+10.Lanzini Manuel.P
+18.Nasri Samir.P
+16.Noble Mark.P
+14.Obiang Pedro.P
+41.Rice Declan.P
+15.Sanchez Carlos.P
+11.Snodgrass Robert.P
+19.Wilshere Jack.P
+7.Arnautovic Marko.N
+9.Carroll Andrew.N
+17.Chicharito.N
+11.Holland Nathan.N
+2.Johnson Benjamin.N
+27.Perez Lucas.N
+32.Silva Xande.N
+20.Yarmolenko Andriy.N
